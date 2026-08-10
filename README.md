@@ -14,7 +14,7 @@ SPDX-License-Identifier: MIT
 [![REUSE status](https://api.reuse.software/badge/github.com/SchmiedmayerLab/OpenTSLMMLX)](https://api.reuse.software/info/github.com/SchmiedmayerLab/OpenTSLMMLX)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SchmiedmayerLab/OpenTSLMMLX/blob/main/LICENSE.md)
 
-MLX port of [OpenTSLM](https://github.com/StanfordBDHG/OpenTSLM)'s SP (Soft Prompt) variant for inference on Apple Silicon.
+MLX port of [OpenTSLM](https://github.com/SchmiedmayerLab/OpenTSLM)'s SP (Soft Prompt) variant for inference on Apple Silicon.
 
 ## Project Structure
 
